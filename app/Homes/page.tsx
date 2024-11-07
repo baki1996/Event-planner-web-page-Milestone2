@@ -5,7 +5,7 @@ const Homes = () => {
   return (
     <section
       style={{
-        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('/img/Bg.png')`,
+        backgroundImage: `linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.3)), url('/img/bg.png')`,
         backgroundSize: "cover",
         backgroundPosition: "center",
       }}
