@@ -19,7 +19,7 @@ const Services = () => {
         <h2> Bashful Event Services</h2>
         <p>
         Providing catering services for years.Crafting unique culinary experiences
-        Adding more colors to your events.From classic to contemporary, we've got you covered
+        Adding more colors to your events.From classic to contemporary, we have got you covered
         Where your menu is a masterpiece.A taste like never before.
 
 
